@@ -1,0 +1,417 @@
+#banner
+{
+	width: 1700px;
+	height: 100px;
+	background-color: #F1BDC1;
+	margin-top: -10px;
+	margin-left: -10px;
+}
+
+#logo
+{
+	margin-left: 100px;
+	margin-top: -65px;
+	width: 200px;
+}
+
+#cart
+{
+	margin-left: 1580px;
+	margin-top: 23px;
+	width: 60px;
+}
+
+hr
+{
+	display: block;
+	margin-left: 750px;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #769CA2;
+    width: 245px;
+}
+
+.btn-group1
+{
+	margin-left: 700px;
+	position: absolute;
+	margin-top: -64px;
+
+}
+
+.btn-group1 button
+{
+	background-color: white;
+	border: 2px solid #769CA2;
+	border-radius: 50%;
+	width: 33px;
+	height: 33px;
+	margin-top: 36px;
+	margin-left: 40px;
+
+}
+
+#done
+{
+	background-color: #90BFC6;
+	border: none;
+
+}
+
+#divtitle
+{
+	font-family: SignPainter;
+	font-size: 20px;
+	margin-top: 8px;
+	margin-left: 17px;
+	color: #A64C5B;
+}
+
+#select
+{
+	background-color: #769CA2;
+	border: none;
+}
+
+#question
+{
+	font-family: SignPainter;
+	font-size: 48px;
+	color: #A64C5B;
+	margin-left: -310px;
+	margin-top: 50px;
+}
+
+#title
+{
+	font-family: SignPainter;
+	font-size: 48px;
+	color: #A64C5B;
+	margin-left: 310px;
+	margin-top: 50px;
+}
+
+#title1
+{
+	font-family: SignPainter;
+	font-size: 48px;
+	color: #A64C5B;
+	margin-left: 310px;
+	margin-top: 50px;
+}
+
+#subt
+{
+	font-family: SignPainter;
+	font-size: 35px;
+	color: #769CA2;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 388px;
+}
+
+#options
+{
+	position: absolute;
+	margin-left: 270px;
+	margin-top: 0px;
+}
+#options button
+{
+	background-color: transparent;
+	border: none;
+	width: 200px;
+	height: 200px;
+	position:absolute;
+	margin-left: 150px;
+	margin-top: 150px;
+}
+#options button:focus 
+{
+	outline:0;
+}
+#options img
+{
+	margin-left: 100px;
+	margin-top: 180px;
+}
+
+#categories
+{
+	font-family: SignPainter;
+	font-size: 35px;
+	position: absolute;
+	margin-top: 370px;
+	margin-left: 400px;
+	color: #A64C5B;
+}
+
+#categ
+{
+	font-family: SignPainter;
+	font-size: 35px;
+	color: #A64C5B;
+	position:absolute;
+	margin-top: 640px;
+	margin-left: 490px;
+
+}
+
+#next
+{
+	margin-top: 450px;
+	margin-left: 1350px;
+}
+#next2
+{
+	margin-top: 600px;
+	margin-left: 1350px;
+}
+#next3
+{
+	margin-top: 150px;
+	margin-left: 1450px;
+}
+
+#next4
+{
+	position: fixed;
+	margin-top: 250px;
+	margin-left: 1470px;
+	width: 150px;
+}
+#next5
+{
+	margin-top: 0px;
+	margin-left: 1350px;
+}
+
+
+#skip
+{
+	margin-left: 1457px;
+	margin-top: 5px;
+}
+
+#tag
+{
+	font-family: SignPainter;
+	font-size: 35px;
+	color: #769CA2;
+	margin-top: 10px;
+	margin-left: 1357px;
+}
+
+#ta
+{
+	position: fixed;
+	font-family: SignPainter;
+	font-size: 45px;
+	color: #769CA2;
+	margin-top: 410px;
+	margin-left: 1515px;
+}
+
+p
+{
+	font-family: SignPainter;
+	font-size: 35px;
+	color: #769CA2;
+	margin-top: 5px;
+	margin-left: 1357px;
+}
+
+#upload 
+{
+    margin-left: -50px;
+    margin-top: 430px;
+    position: absolute;
+}
+
+#qty {
+    margin-left: 330px;
+    margin-top: 200px;
+    width: 160px;
+    height: 100px;
+    border-radius: 10%;
+    border-color: #90BFC6;
+    border-width: 2px;
+    position: absolute;
+    text-align: center;
+    font-family: SignPainter;
+    font-size: 50px;
+    color: #A64C5B;
+}
+
+#move
+{
+	margin-left: 90px;
+	margin-top: -83px;
+
+}
+
+
+#comment 
+{
+    margin-left: 380px;
+    margin-top: 170px;
+    width: 500px;
+    height: 300px;
+    border-color: #90BFC6;
+    border-width: 2px;
+    font-family: SignPainter;
+    font-size: 30px;
+    color: #A64C5B;
+}
+
+
+#move button
+{
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 170px;
+	width: 200px;
+	height: 200px;
+}
+#move img
+{
+	margin-left:120px;
+}
+
+
+#p1
+{
+	position:absolute;
+	margin-left: 200px;
+	margin-top: 0px;
+	width: 400px;
+}
+
+#p2
+{
+	position:absolute;
+	margin-left: 600px;
+	margin-top: -50px;
+	width: 500px;
+}
+
+#p3
+{
+	position:absolute;
+	margin-left: 1100px;
+	margin-top: 0px;
+	width: 400px;
+	z-index: -1;
+}
+
+#p4
+{
+	position:absolute;
+	margin-left: 170px;
+	margin-top: 430px;
+	width: 870px;
+}
+
+#p5
+{
+	position:absolute;
+	margin-left: 1070px;
+	margin-top: 380px;
+	width: 480px;
+	z-index: -1;
+}
+
+#p6
+{
+	position:absolute;
+	margin-left: 1100px;
+	margin-top: 840px;
+	width: 430px;
+	z-index: -1;
+}
+
+#sofa1
+{
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 50px;
+
+}
+
+#sqr1
+{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 50px;
+
+}
+
+#add
+{
+	padding: 20px 50px 20px 50px;
+	color: white;
+	background-color: #B9B857;
+	border-radius: 10px;
+	position: absolute;
+	margin-left: 1070px;
+	margin-top: -100px;
+	font-size: 50px;
+	font-family: SignPainter;
+
+}
+
+#new
+{
+
+	padding: 20px 50px 20px 50px;
+	color: white;
+	background-color: #B9B857;
+	border-radius: 10px;
+	position: absolute;
+	margin-left: 870px;
+	margin-top: -50px;
+	font-size: 50px;
+	font-family: SignPainter;
+
+
+}
+
+
+#new1
+{
+
+	padding: 20px 50px 20px 50px;
+	color: white;
+	background-color: #B9B857;
+	border-radius: 10px;
+	position: absolute;
+	margin-left: 870px;
+	margin-top: 60px;
+	font-size: 50px;
+	font-family: SignPainter;
+	width: 480px;
+}
+
+#box
+{
+	background-color: #E8E8E8;
+	z-index: -3;
+	width: 1150px;
+	height: 530px;
+	position: absolute;
+	margin-top: -490px;
+	margin-left: 300px;
+	color: #769CA2;
+	font-family: SignPainter;
+	font-size: 30px;
+	padding: 20px 20px 20px 20px;
+}
+
+#x
+{
+	width: 40px;
+	position: absolute;
+	margin-left: 1400px;
+	margin-top: -470px;
+}
+
