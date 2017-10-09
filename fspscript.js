@@ -37,6 +37,7 @@ function remove()
             document.getElementById('add').style.visibility = "hidden";
             document.getElementById('title1').style.visibility = "hidden";
             document.getElementById('cart').src = 'cart.png';
+	    document.getElementById('title').innerHTML = 'Your cart is empty';
 			alert('Order removed from cart.');
 		}
 
