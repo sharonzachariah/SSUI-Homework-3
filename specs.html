@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+ 	<title>Flip Stitch Pillow: Customise</title>
+    <link rel="stylesheet" href="cust.css">
+    <script src="fspscript.js"></script>
+ </head>
+
+ <body>
+ 	<div id="banner">
+ 		<img src="cart.png" id="cart" onclick="location.href=('cart.html')">
+ 	</div>
+ 	<img src="logo.png" id="logo" onclick="location.href=('index.html')">
+
+ 	<hr/>
+
+
+ 	<div>
+ 		<div class="btn-group1">
+       	<button id="done" onclick="location.href=('customise.html')"></button>
+        <button id="done" onclick="location.href=('shape.html')"></button>
+  			<button id="done" onclick="location.href=('inspire.html')"></button>
+  			<button id="select"></button>
+  			<pre id="divtitle">Pillow type       Shape        Inspire     Specifications</pre>
+
+  			<div> 
+  				<pre id="question">Any specific design ideas?                         How many pillows do you want?</pre>
+  			</div>
+    </div>
+
+    <form>
+      <input type="textarea" name="specifications" id="comment" placeholder="Tell us more! You can even add a picture!" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tell us more! You can even add a picture!'">
+      <input type="image" src ="camera.png" name="upload" id="upload">
+      <input type="number" name="quantity" min="1" max="5" id="qty">
+    </form>
+
+
+    <img src="done.png" id="next5" onclick="location.href=('summary.html')">
+    <p>Done</p>
+
+  </div>
+ 	
+
+
+
+ </body>
+
+</html>
+
